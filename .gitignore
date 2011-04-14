@@ -2,6 +2,8 @@
 target
 
 # ignore eclipse files and folders
+.project
+.classpath
 .settings
 .scala_dependencies
 .externalToolBuilders
